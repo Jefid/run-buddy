@@ -417,7 +417,7 @@ section {
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
 @media screen and (max-width: 768px) {
   section {
-      padding: 30 px 15 px;
+      padding: 30px 15px;
   }
   .step h3 {
     flex: 1 100%;
