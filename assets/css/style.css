@@ -145,6 +145,7 @@ section {
   margin: 3.5%;
   border-radius: 15px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  opacity: 75%;
 }
 
 .hero-form button:hover {
