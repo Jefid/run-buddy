@@ -7,10 +7,12 @@ A website that offers fitness training services.
 * HTML
 * CSS
 
+<img src="./assets/images/050-mock-up.jpg" alt="Mock up of Run Buddy." />
+
 ## Website
-https://lernantino.github.io/run-buddy/
+https://jefid.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by [your name]
+Made with ❤️ by Jefferson
 
 ### ©️2019 Run Buddy, Inc 
